@@ -1,2 +1,3 @@
 # jimy
-practica comid en github
+jimy paredes roque
+APSTI
